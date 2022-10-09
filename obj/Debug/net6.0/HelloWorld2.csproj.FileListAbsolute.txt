@@ -1,0 +1,15 @@
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/bin/Debug/net6.0/HelloWorld2
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/bin/Debug/net6.0/HelloWorld2.deps.json
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/bin/Debug/net6.0/HelloWorld2.runtimeconfig.json
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/bin/Debug/net6.0/HelloWorld2.dll
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/bin/Debug/net6.0/HelloWorld2.pdb
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.csproj.AssemblyReference.cache
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.AssemblyInfoInputs.cache
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.AssemblyInfo.cs
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.dll
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/refint/HelloWorld2.dll
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.pdb
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/HelloWorld2.genruntimeconfig.cache
+/Users/liamtorres/repos/HelloWorld/HelloWorld2/obj/Debug/net6.0/ref/HelloWorld2.dll
